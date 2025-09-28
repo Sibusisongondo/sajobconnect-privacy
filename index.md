@@ -26,8 +26,7 @@ When you use our App, we may automatically collect certain information, includin
 - IP address and general location information
 - Search queries and interaction patterns within the App
 
-### 2.3 Third-Party Data
-Our App uses the JSearch API (RapidAPI) to fetch job listings. When you search for jobs, your query is sent to this third-party service. Please refer to [RapidAPI's Privacy Policy](https://rapidapi.com/privacy) for information on how they handle data.
+
 
 ## 3. How We Use Your Information
 
